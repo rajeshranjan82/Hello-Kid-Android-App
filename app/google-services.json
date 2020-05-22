@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050616194473",
+    "firebase_url": "https://student-app-c3347.firebaseio.com",
+    "project_id": "student-app-c3347",
+    "storage_bucket": "student-app-c3347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050616194473:android:d45b48a34013618e06d0b8",
+        "android_client_info": {
+          "package_name": "com.rajesh.math_calculation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050616194473-66hi450omo1rj4oj9rip041uuf13bhdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajesh.math_calculation",
+            "certificate_hash": "0711d52813438bd166d6282c7249321b0828c2aa"
+          }
+        },
+        {
+          "client_id": "1050616194473-ptoviv0f1hbqtt63qeeu4lrite0t172f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6WiSRNZLv7Xoy_GuuJ-3d8GUskJvGCJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050616194473-ptoviv0f1hbqtt63qeeu4lrite0t172f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
